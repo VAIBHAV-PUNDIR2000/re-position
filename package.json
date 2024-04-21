@@ -13,7 +13,7 @@
       "dev": "docz dev",
       "test": "jest"
     },
-    "repository": "https://github.com/vaibhavpundir29/re-position-fixed",
+    "repository": "https://github.com/VAIBHAV-PUNDIR2000/re-position",
     "author": "Vaibhav Pundir",
     "license": "MIT",
     "dependencies": {
